@@ -1,0 +1,15 @@
+.card-header {
+    background-color: rgb(0, 255, 85);
+}
+
+.one {
+    background-color: rgb(42, 157, 165);
+}
+
+.two {
+    background-color: rgb(156, 96, 72);
+}
+
+.card-footer {
+    background-color: rgba(110, 119, 119, 0.315);
+}
